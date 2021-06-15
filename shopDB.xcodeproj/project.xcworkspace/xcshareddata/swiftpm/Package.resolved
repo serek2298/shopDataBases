@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "FloatingTabBar",
+        "repositoryURL": "https://github.com/10011WORK/FloatingTabBar.git",
+        "state": {
+          "branch": "master",
+          "revision": "cefdc5ed390b66b74091e93b20ae2121c6abecb1",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
